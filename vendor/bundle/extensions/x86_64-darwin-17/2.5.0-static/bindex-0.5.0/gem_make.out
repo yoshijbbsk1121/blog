@@ -1,0 +1,15 @@
+current directory: /Users/takayamayoshinari/railsprojects/rails2/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/takayamayoshinari/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20190202-3151-vb4n66.rb extconf.rb
+creating Makefile
+
+current directory: /Users/takayamayoshinari/railsprojects/rails2/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/takayamayoshinari/railsprojects/rails2/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/takayamayoshinari/railsprojects/rails2/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190202-3151-1y4ykeq/bindex
